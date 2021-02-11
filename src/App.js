@@ -57,7 +57,7 @@ export default class App extends Component {
           />
           <InputNetSalary
             changeValue={netSalary}
-            percent={(discountIRPF / baseIRPF) * 100}
+            percent={(netSalary / baseIRPF) * 100}
           />
         </div>
         <div className="barContainer">
