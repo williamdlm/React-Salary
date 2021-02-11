@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Salary/static/css/main.14e43451.chunk.css",
+    "main.js": "/React-Salary/static/js/main.cac4ddc0.chunk.js",
+    "main.js.map": "/React-Salary/static/js/main.cac4ddc0.chunk.js.map",
+    "runtime-main.js": "/React-Salary/static/js/runtime-main.b71f1328.js",
+    "runtime-main.js.map": "/React-Salary/static/js/runtime-main.b71f1328.js.map",
+    "static/css/2.0ba96f5c.chunk.css": "/React-Salary/static/css/2.0ba96f5c.chunk.css",
+    "static/js/2.230fb418.chunk.js": "/React-Salary/static/js/2.230fb418.chunk.js",
+    "static/js/2.230fb418.chunk.js.map": "/React-Salary/static/js/2.230fb418.chunk.js.map",
+    "index.html": "/React-Salary/index.html",
+    "static/css/2.0ba96f5c.chunk.css.map": "/React-Salary/static/css/2.0ba96f5c.chunk.css.map",
+    "static/css/main.14e43451.chunk.css.map": "/React-Salary/static/css/main.14e43451.chunk.css.map",
+    "static/js/2.230fb418.chunk.js.LICENSE.txt": "/React-Salary/static/js/2.230fb418.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71f1328.js",
+    "static/css/2.0ba96f5c.chunk.css",
+    "static/js/2.230fb418.chunk.js",
+    "static/css/main.14e43451.chunk.css",
+    "static/js/main.cac4ddc0.chunk.js"
+  ]
+}
