@@ -62,11 +62,11 @@ export default class App extends Component {
         </div>
         <div className="barContainer">
           <div
-            className="red"
+            className="orange"
             style={{ flex: `${this.percent(discountINSS, baseINSS)}%` }}
           ></div>
           <div
-            className="orange"
+            className="red"
             style={{ flex: `${this.percent(discountIRPF, baseIRPF)}%` }}
           ></div>
           <div
