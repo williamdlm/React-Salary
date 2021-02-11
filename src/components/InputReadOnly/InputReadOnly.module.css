@@ -1,0 +1,35 @@
+.inputRead {
+  margin: 0 10px;
+  max-width: 250px;
+}
+.inputRead label,
+.inputRead input {
+  font-weight: bold;
+}
+.discountINSS {
+  margin: 0 10px;
+  max-width: 250px;
+}
+.discountINSS label,
+.discountINSS input {
+  color: orange;
+  font-weight: bold;
+}
+.discountIRPF {
+  margin: 0 10px;
+  max-width: 250px;
+}
+.discountIRPF label,
+.discountIRPF input {
+  color: red;
+  font-weight: bold;
+}
+.netSalary {
+  max-width: 250px;
+  margin: 0 10px;
+}
+.netSalary label,
+.netSalary input {
+  color: lightseagreen;
+  font-weight: bold;
+}
