@@ -7,19 +7,19 @@
 
 
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#sobre">About</a> •
+ <a href="#tecnologias">Technologies</a> • 
  <a href="#features">Features</a> • 
- <a href="#pre">Pre-requisitos</a> • 
- <a href="#autor">Autor</a>
+ <a href="#pre">Requirements</a> • 
+ <a href="#autor">Author</a>
 </p>
 
 ## Sobre :book:
 
-React Salary, foi um aplicativo desenvolvido durante o bootcamp IGTI 2020.
-Utilizando React criamos uma aplicação web que recebe como entrada o seu salario bruto e exibe como saida a base do INSS, desconto INSS, base, IRPF, desconto IRPF e por fim o salario liquido.
+React Salary, was an application developed during the IGTI 2020 bootcamp.
+Using React we create a web application that receives your gross salary as input and displays the INSS base, INSS discount, base, IRPF, IRPF discount and finally the net salary as an output.
 
-## Tecnologias  :rocket:
+## Technologies  :rocket:
 
 [HTML/CSS]
 
@@ -30,38 +30,38 @@ Utilizando React criamos uma aplicação web que recebe como entrada o seu salar
 
  ## Features
 
-  - [x] ✔ Calculo base INSS
-  - [x] ✔ Calculo desconto INSS
-  - [x] ✔ Calculo base IRPF
-  - [x] ✔ Calculo Desconto IRPF
-  - [x] ✔ Calculo salario liquido
+  - [x] ✔ INSS base calculation
+  - [x] ✔ Calculation of INSS discount
+  - [x] ✔ IRPF base calculation
+  - [x] ✔ IRPF Discount Calculation
+  - [x] ✔ Calculation of net salary
  
 
 <hr>
 <p id="pre">
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:  
+Before you begin, you will need to have the following tools installed on your machine:
 
 [Git](https://git-scm.com)
-, [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+, [Node.js](https://nodejs.org/en/). Also, it’s good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 </p>
 
-### 🎲 Rodando a aplicação REACT
+### 🎲 Running the REACT application
 
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/williamdlm/react-salary>
 ```
 ```bash
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in the / cmd terminal
 $ cd react-salary
 ```
 ```bash
-# Or if you prefer using Yarn:
+# Install dependencies
 $ yarn 
 ```
 ```bash
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start
 ```
 
