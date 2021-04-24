@@ -14,7 +14,7 @@
  <a href="#autor">Author</a>
 </p>
 
-## Sobre :book:
+## About :book:
 
 React Salary, was an application developed during the IGTI 2020 bootcamp.
 Using React we create a web application that receives your gross salary as input and displays the INSS base, INSS discount, base, IRPF, IRPF discount and finally the net salary as an output.
